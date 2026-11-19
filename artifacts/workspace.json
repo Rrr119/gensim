@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid26357",
+  "B": "/home/dev/feedback/uid26357",
+  "sha": "da270f754ee347e24fd457a20628bf956823dfa3",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "piskvorky",
+    "repo": "gensim",
+    "sha": "da270f754ee347e24fd457a20628bf956823dfa3"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "gensim",
+    "cloneUrl": "https://github.com/Rrr119/gensim.git"
+  },
+  "at": "2026-11-19T04:49:58.862Z"
+}

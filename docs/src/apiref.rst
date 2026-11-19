@@ -32,6 +32,7 @@ Modules:
     models/nmf
     models/lsimodel
     models/ldaseqmodel
+    models/dynamictopicmodel
     models/tfidfmodel
     models/rpmodel
     models/hdpmodel
